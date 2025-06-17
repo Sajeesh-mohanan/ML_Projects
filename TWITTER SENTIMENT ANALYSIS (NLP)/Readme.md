@@ -41,19 +41,6 @@ The model is evaluated on a hold-out test set using `accuracy_score` to measure 
 
 ---
 
-## 📁 Project Structure
-
-Twitter_Sentiment_Analysis
-│
-├── sentiment_analysis.ipynb # Jupyter Notebook
-├── kaggle.json # Kaggle API key (not shared publicly)
-├── sentiment140.zip # Raw data (from Kaggle)
-├── training.1600000.processed.noemoticon.csv # Dataset file
-└── README.md # Project documentation
-
-
----
-
 ## 💡 Future Improvements
 
 - Try advanced models: SVM, Random Forest, or XGBoost
