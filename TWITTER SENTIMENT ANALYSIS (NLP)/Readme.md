@@ -43,7 +43,7 @@ The model is evaluated on a hold-out test set using `accuracy_score` to measure 
 
 ## 📁 Project Structure
 
-Twitter_Sentiment_Analysis/
+Twitter_Sentiment_Analysis
 │
 ├── sentiment_analysis.ipynb # Jupyter Notebook
 ├── kaggle.json # Kaggle API key (not shared publicly)
