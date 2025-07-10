@@ -10,19 +10,14 @@ Predicts future stock prices using machine learning models like Linear Regressio
 ### 2. 🐦 TWITTER SENTIMENT ANALYSIS (NLP)
 Performs sentiment classification (positive/negative) on tweets using NLP techniques and logistic regression. Includes data cleaning, TF-IDF vectorization, and model training.
 
+### 3. 🧠 Sentiment Scraper: Real-Time Web Sentiment Analysis with Transformers
+This project demonstrates how to build a real-time sentiment analysis pipeline using Hugging Face Transformers, PyTorch, and BeautifulSoup. The notebook fetches content from the web, processes it, and classifies the sentiment using a pre-trained NLP model.
+
 ## 🛠 Tools Used
 
 - Python, Pandas, NumPy
 - Scikit-learn, Matplotlib, NLTK
+- Transformers
+- BERT
 - Jupyter Notebook
 
-## 📌 Structure
-
-Each folder contains:
-- `model.ipynb` – Jupyter notebook with code
-- `README.md` – Project overview
-- Supporting files (e.g., dataset, saved models)
-
-## 📄 License
-
-Open-sourced under the [MIT License](LICENSE).
